@@ -13,7 +13,7 @@ function App() {
                 <Zap className="h-8 w-8 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">EDP Brasil</h1>
+                <h1 className="text-2xl font-bold text-gray-900">Soluções de Energia Online</h1>
                 <p className="text-sm text-gray-600">Energia que move o futuro</p>
               </div>
             </div>
@@ -31,7 +31,7 @@ function App() {
       <main className="max-w-6xl mx-auto px-6 py-16">
         <div className="text-center mb-16">
           <h2 className="text-5xl font-bold text-gray-900 mb-6 leading-tight">
-            Bem-vindo à <span className="bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">EDP Brasil</span>
+            Bem-vindo à <span className="bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">Central Neoenergia</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Sua parceira em energia elétrica, oferecendo soluções inovadoras e sustentáveis 
@@ -51,7 +51,7 @@ function App() {
                 Acesse e baixe sua fatura de energia elétrica de forma rápida e segura, disponível 24 horas.
               </p>
               <a 
-                href="https://wa.me/message/H563LI327U6AA1" 
+                href="https://wa.me/5571999596293?text=Ol%C3%A1%2C%20Atendimento" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block w-full bg-gradient-to-r from-blue-600 to-blue-700 text-white py-4 px-6 rounded-xl font-semibold hover:from-blue-700 hover:to-blue-800 transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-4 focus:ring-blue-300 text-center"
@@ -71,7 +71,7 @@ function App() {
                 Negocie suas pendências de forma simples e encontre as melhores condições de pagamento.
               </p>
               <a 
-                href="https://wa.me/message/H563LI327U6AA1" 
+                href="https://wa.me/5571999596293?text=Ol%C3%A1%2C%20Atendimento" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block w-full bg-gradient-to-r from-green-600 to-green-700 text-white py-4 px-6 rounded-xl font-semibold hover:from-green-700 hover:to-green-800 transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-4 focus:ring-green-300 text-center"
@@ -91,7 +91,7 @@ function App() {
                 Nossa equipe especializada está pronta para atender suas necessidades e esclarecer dúvidas.
               </p>
               <a 
-                href="https://wa.me/message/H563LI327U6AA1" 
+                href="https://wa.me/5571999596293?text=Ol%C3%A1%2C%20Atendimento" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="block w-full bg-gradient-to-r from-orange-600 to-orange-700 text-white py-4 px-6 rounded-xl font-semibold hover:from-orange-700 hover:to-orange-800 transition-all duration-300 transform hover:scale-105 focus:outline-none focus:ring-4 focus:ring-orange-300 text-center"
@@ -143,7 +143,7 @@ function App() {
           <p className="text-red-100 mb-6">Ligue imediatamente para nossa central de emergência</p>
           <div className="flex justify-center items-center space-x-4">
             <Phone className="h-6 w-6" />
-            <span className="text-3xl font-bold">0800-123-4567</span>
+            <span className="text-3xl font-bold">(71) 99959-6293</span>
           </div>
         </div>
       </main>
@@ -157,7 +157,7 @@ function App() {
                 <div className="bg-gradient-to-r from-blue-600 to-blue-700 p-2 rounded-lg">
                   <Zap className="h-6 w-6 text-white" />
                 </div>
-                <span className="text-xl font-bold">EDP Brasil</span>
+                <span className="text-xl font-bold">Soluções de Energia</span>
               </div>
               <p className="text-gray-400 leading-relaxed">
                 Energia que move o futuro do Brasil, com inovação, sustentabilidade e excelência no atendimento.
@@ -189,15 +189,15 @@ function App() {
               <div className="space-y-4">
                 <div className="flex items-center space-x-3">
                   <Phone className="h-5 w-5 text-blue-400" />
-                  <span className="text-gray-400">0800-123-4567</span>
+                  <span className="text-gray-400">(71) 99959-6293</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Mail className="h-5 w-5 text-blue-400" />
-                  <span className="text-gray-400">atendimento@edpbrasil.com.br</span>
+                  <span className="text-gray-400">atendimento@neoenergia.com.br</span>
                 </div>
                 <div className="flex items-start space-x-3">
                   <MapPin className="h-5 w-5 text-blue-400 mt-1" />
-                  <span className="text-gray-400">São Paulo, SP<br />Brasil</span>
+                  <span className="text-gray-400"><br />Brasil</span>
                 </div>
               </div>
             </div>
@@ -205,7 +205,7 @@ function App() {
           
           <div className="border-t border-gray-800 pt-8 mt-12 text-center">
             <p className="text-gray-400">
-              © 2025 EDP Brasil. Todos os direitos reservados. | 
+              © 2025 Soluções de Energia Brasil. Todos os direitos reservados. | 
               <a href="#" className="hover:text-white transition-colors duration-300 ml-2">Política de Privacidade</a> | 
               <a href="#" className="hover:text-white transition-colors duration-300 ml-2">Termos de Uso</a>
             </p>
